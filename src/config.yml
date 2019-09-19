@@ -1,11 +1,24 @@
-Mito: 'Gabb_Alves'
-PexAntigo: 'teste'
-Tag: '&5[MITO DO PVP] &r'
+Mito: 'Gab_Alves'
+Tag: '&5[MITO] &r'
+
+Config:
+  Comandos_Mito_Novo:
+  - 'pex user <player> add mito.perm'
+  
+  Comandos_Mito_Antigo:
+  - 'pex user <antigo-mito> remove mito.perm'
+
+Holo:
+  Altura: 1.8
+  Line:
+    1: '&5[Mito do PvP]'
+    2: '&7<cargo> <player>'
+
 Mensagens:
-  Novo: '&5[MITO DO PVP] &c@player e o(a) novo(a) MITO do PVP!'
-  Atual: '&5[MITO DO PVP] &c@player e o(a) MITO do PVP!'
-  Atual2: '&5[MITO DO PVP] &cSem mito do pvp no momento!'
-  Logou: '&5[MITO DO PVP] &c@player logou no servidor!'
+  Novo: '&5[MITO] &c<player> e o(a) novo(a) MITO do PVP!'
+  Atual: '&5[MITO] &c<player> e o(a) MITO do PVP!'
+  Atual2: '&5[MITO] &cSem mito do pvp no momento!'
+  Logou: '&5[MITO] &c<player> logou no servidor!'
 
 
 Locations:
