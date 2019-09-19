@@ -1,0 +1,8 @@
+name: Mito
+main: me.gabriel.mito.Main
+version: 1.0
+softdepend: [Citizens, Legendchat, PermissionsEx, HolographicDisplays]
+commands:
+   mito:
+   setmito:
+   setnpcmito:

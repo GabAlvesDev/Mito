@@ -1,0 +1,18 @@
+Mito: 'Gabb_Alves'
+PexAntigo: 'teste'
+Tag: '&5[MITO DO PVP] &r'
+Mensagens:
+  Novo: '&5[MITO DO PVP] &c@player e o(a) novo(a) MITO do PVP!'
+  Atual: '&5[MITO DO PVP] &c@player e o(a) MITO do PVP!'
+  Atual2: '&5[MITO DO PVP] &cSem mito do pvp no momento!'
+  Logou: '&5[MITO DO PVP] &c@player logou no servidor!'
+
+
+Locations:
+  NPC:
+    x: 0
+    y: 0
+    z: 0
+    pitch: 0
+    yaw: 0
+    world: world
